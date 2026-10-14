@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-14T14:30:05.325Z",
+ "generatedAt": "2026-10-14T14:50:36.023Z",
  "capReached": false,
  "fingerprints": {
   "afghanistan": "c286e5332a1c5d70",
@@ -27,7 +27,7 @@
   "france_v2": "7e18ba1f64bdf853",
   "usa_sourced": "86c8fc7233c083c8",
   "nigeria_sourced": "4d7e099b9ec02e32",
-  "iran_sourced": "427c93211bf25c9d",
+  "iran_sourced": "f4626af8cb15c145",
   "china": "a7dcb90260da761d",
   "colombia": "8db843585aa0bc30",
   "fiji": "51cbafef7eb80ec1",
@@ -42,6 +42,6 @@
   "pt-1159127323": "e73891c242a4ec12",
   "pt-1159146085": "60f06ee8d94183a8",
   "pt-bialystok_sourced": "b17e2532dc510926",
-  "_sources": "3b4bd7c466232cf5"
+  "_sources": "e5076237d2967969"
  }
 }
